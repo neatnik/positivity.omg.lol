@@ -43,9 +43,8 @@
 	{"type": "quote", "source": "Winston Churchill", "content": "The positive thinker sees the invisible, feels the intangible, and achieves the impossible." },
 	{"type": "quote", "source": "Abraham Lincoln", "content": "We can complain because rose bushes have thorns, or rejoice because thorn bushes have roses." },
 	{"type": "quote", "source": "Abraham Lincoln", "content": "Folks are usually about as happy as they make their minds up to be." },
-	{"type": "quote", "source": "Robert Frost", "content": "Happiness makes up in height for what it lacks in length." }
-	{"type": "quote", "source": "Pam Beesly-The Office", "content": "There's a lot of beauty in ordinary things. Isn't that kind of the point?"}
-	{"type": "quote", "source": "Robert Frost", "content": "Happiness makes up in height for what it lacks in length."}
-	{"type": "quote", "source": "Stephen King", "content": "You can, You should, and if you are brave enough to start, you will."}
-	{"type": "quote", "source": "Chris Gardner", "content": "Don't ever let someone tell you, you can't do something."}
+	{"type": "quote", "source": "Robert Frost", "content": "Happiness makes up in height for what it lacks in length." },
+	{"type": "quote", "source": "Pam Beesly (The Office)", "content": "There's a lot of beauty in ordinary things. Isn't that kind of the point?"},
+	{"type": "quote", "source": "Stephen King", "content": "You can, you should, and if you are brave enough to start, you will."},
+	{"type": "quote", "source": "Chris Gardner", "content": "Don’t ever let someone tell you, you can't do something."}
 ]
